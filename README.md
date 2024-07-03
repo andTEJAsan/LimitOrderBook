@@ -1,3 +1,13 @@
 # LimitOrderBook
 
-<img width="1470" alt="img" src="https://github.com/andTEJAsan/LimitOrderBook/assets/122673067/ac9d9788-83d4-4655-8069-618402e896ef">
+## This is a live orderbook simulator, built with an Aim of Understanding Different Order Filling Algorithms and Data Structures
+
+# Installation
+- Clone the repository
+- You only require tkinter (which comes preinstalled with python)
+
+# How To Use
+
+- Execute the following command from the working `python app.py`.
+- You can either manually add buy/sell orders from the UI or run a simulation which lasts 30 seconds.
+
